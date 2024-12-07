@@ -169,7 +169,7 @@
 		  "description": "Create a single quick save at a point to practice tough tricks.",
 		  "authors": ["abadaba42"],
 		  "Version": "v1.0.0",
-		  "download": "https://github.com/abadaba42/QuickSave-superflight/blob/main/bin/Debug/QuickSave.dll",
+		  "download": "https://github.com/abadaba42/QuickSave-superflight/releases/download/v1.0.0/QuickSave.dll",
 		  "disableScoreReporting": true,
 		  "settings": {
 			"Controls": [
