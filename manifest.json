@@ -162,6 +162,29 @@
 					{ "name": "Color", "value": "#FF0000" }
 				]
 			}
+		},
+		{
+		  "name": "QuickSave",
+		  "homepage": "https://github.com/abadaba42/QuickSave-superflight",
+		  "description": "Create a single quick save at a point to practice tough tricks.",
+		  "authors": ["abadaba42"],
+		  "Version": "v1.0.0",
+		  "download": "https://github.com/abadaba42/QuickSave-superflight/releases/download/v1.0.0/QuickSave.dll",
+		  "disableScoreReporting": true,
+		  "settings": {
+			"Controls": [
+			  {
+				"Action": "Create",
+				"Keyboard": "P",
+				"Controller": "RB"
+			  },
+			  {
+				"Action": "Remove",
+				"Keyboard": "K",
+				"Controller": "R3"
+			  }
+			]
+		  }
 		}
 	]
 }
