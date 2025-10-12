@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFMFLauncher", "SFMFLauncher\SFMFLauncher.csproj", "{84732D3D-EAD4-4F3D-8853-45F2E5228B38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFMF", "SFMF\SFMF.csproj", "{9986D241-176A-4879-89F9-511EFB90E151}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFMFManager", "SFMFManager\SFMFManager.csproj", "{74D256E5-F9DE-4529-8101-4F481ACCB223}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E21C43D-A50C-48EB-A042-A008E1E29B6B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		CreatingMods.md = CreatingMods.md
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
