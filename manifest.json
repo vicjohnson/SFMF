@@ -1,6 +1,6 @@
 {
-	"version": "v2.0.2",
-	"homepage": "https://vicjohnson1213.github.io/SFMF/",
+	"version": "v2.0.3",
+	"homepage": "https://vicjohnson.dev/SFMF/",
 	"superflightGameURI": "steam://rungameid/732430",
 	"modlist": [
 		{
@@ -188,3 +188,4 @@
 		}
 	]
 }
+
