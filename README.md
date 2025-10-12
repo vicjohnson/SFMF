@@ -2,6 +2,14 @@
 
 > SFMF is a framework facilitating the creation, distribution, and installation of mods for [Superflight](https://superflightgame.com/).
 
+## Using SFMF
+
+1. Download the latest zip from the [releases](https://github.com/vicjohnson/SFMF/releases)
+2. Unzip the download
+3. Run `SFMFLauncher`
+4. Install the mods you want to use
+5. Click "Install SFMF"
+
 ## Getting Started
 
 ### Prerequisites
