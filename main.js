@@ -1,5 +1,5 @@
 $(function () {
-    $.get('https://raw.githubusercontent.com/vicjohnson1213/SFMF/manifest/manifest.json')
+    $.get('https://raw.githubusercontent.com/vicjohnson/SFMF/manifest/manifest.json')
         .then((res) => {
             let sfmf = JSON.parse(res);
 
