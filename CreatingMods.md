@@ -69,7 +69,7 @@ There are a couple ways you can get your mod to players:
 
 Some more detail on option #2:
 
-I host a json manifest of all known/approved mods on the `manifest` branch of the SFMF project in GitHub (https://github.com/vicjohnson1213/SFMF/blob/manifest/manifest.json). If you'd like to have your mod appear in the list of available mods inside SFMF, you can submit a pull request to this file adding your mod to the list.
+I host a json manifest of all known/approved mods on the `manifest` branch of the SFMF project in GitHub (https://github.com/vicjohnson/SFMF/blob/manifest/manifest.json). If you'd like to have your mod appear in the list of available mods inside SFMF, you can submit a pull request to this file adding your mod to the list.
 
 *Note 1:* Be sure to build release versions of your mods with the release build configuration in Visual Studio
 
